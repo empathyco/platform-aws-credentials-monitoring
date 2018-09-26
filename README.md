@@ -13,7 +13,7 @@ You can read in more detail in the next [article](link to medium)
 
 ## Lambda function code
 
-The lambda function has been done in Golang. We don't include the zip code but you can generate it executing the [access.sh](link to github access.sh)
+The lambda function has been done in Golang. We don't include the zip code but you can generate it executing the [access.sh](https://github.com/EmpathyBroker/aws-credentials-monitoring/blob/master/live/stranger-things/code/access.sh)
 
 ## Terraform instructions 
 
@@ -24,7 +24,7 @@ $ aws-vault exec <profile> -- terragrunt plan -out=fit.plan
 $ aws-vault exec <profile> -- terragrunt apply fit.plan
 ```    
 
-This create us the infrastructure defined in the [main.tf](link to github main.tf)
+This create us the infrastructure defined in the [main.tf](https://github.com/EmpathyBroker/aws-credentials-monitoring/blob/master/live/stranger-things/main.tf)
 
 License
 ----
