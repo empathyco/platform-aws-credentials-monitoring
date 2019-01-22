@@ -1,7 +1,7 @@
 # How to use Terraform, Go, AWS Lambda and Slack to monitor the age of your AWS credentials. 
 
 The aim of this project is explain how to notify AWS users when they need to rotate their credentials to be under an imposed age limit.
-You can read in more detail in the next [article](link to medium)
+You can read in more detail in the next [article](https://medium.com/empathybroker/how-to-monitor-the-age-of-your-aws-credentials-using-terraform-go-aws-lambda-and-slack-a9cc0ad322a)
 
 # Requisites
 * Terraform v0.11.7
